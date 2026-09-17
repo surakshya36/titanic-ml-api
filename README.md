@@ -9,7 +9,7 @@ An end-to-end Machine Learning project that predicts whether a passenger survive
 ## 📊 Data Source
 The dataset used for this project is sourced from the famous **Kaggle Competition**: 
 - [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
-- Files used: `train.csv` (training data) and `test.csv` (evaluation data).
+- File used: `train.csv` (used for exploratory data analysis, model training, and evaluation via `train_test_split`).
 
 ---
 
